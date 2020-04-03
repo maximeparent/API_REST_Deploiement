@@ -14,5 +14,5 @@ public string description { get; set; }
 public string message { get; set; }
 public DateTime date { get; set; }
 // public Customers customers { get; set; }
-public List<Customers> customers { get; set; } = new List<Customers>();
+// public List<Customers> customers { get; set; } = new List<Customers>();
 }

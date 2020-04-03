@@ -518,3 +518,10 @@
 /mnt/c/users/kingk/desktop/RestAPI/obj/Debug/netcoreapp3.1/TodoApi.dll
 /mnt/c/users/kingk/desktop/RestAPI/obj/Debug/netcoreapp3.1/TodoApi.pdb
 /mnt/c/users/kingk/desktop/RestAPI/obj/Debug/netcoreapp3.1/TodoApi.genruntimeconfig.cache
+/mnt/c/users/kingk/desktop/API_REST_Deploiement/obj/Debug/netcoreapp3.1/TodoApi.csprojAssemblyReference.cache
+/mnt/c/users/kingk/desktop/API_REST_Deploiement/obj/Debug/netcoreapp3.1/TodoApi.csproj.CoreCompileInputs.cache
+/mnt/c/users/kingk/desktop/API_REST_Deploiement/obj/Debug/netcoreapp3.1/TodoApi.MvcApplicationPartsAssemblyInfo.cache
+/mnt/c/users/kingk/desktop/API_REST_Deploiement/obj/Debug/netcoreapp3.1/TodoApi.AssemblyInfoInputs.cache
+/mnt/c/users/kingk/desktop/API_REST_Deploiement/obj/Debug/netcoreapp3.1/TodoApi.AssemblyInfo.cs
+/mnt/c/users/kingk/desktop/API_REST_Deploiement/obj/Debug/netcoreapp3.1/TodoApi.dll
+/mnt/c/users/kingk/desktop/API_REST_Deploiement/obj/Debug/netcoreapp3.1/TodoApi.pdb

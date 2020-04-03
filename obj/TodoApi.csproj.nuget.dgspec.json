@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/users/kingk/desktop/RestAPI/TodoApi.csproj": {}
+    "/mnt/c/users/kingk/desktop/API_REST_Deploiement/TodoApi.csproj": {}
   },
   "projects": {
-    "/mnt/c/users/kingk/desktop/RestAPI/TodoApi.csproj": {
+    "/mnt/c/users/kingk/desktop/API_REST_Deploiement/TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/users/kingk/desktop/RestAPI/TodoApi.csproj",
+        "projectUniqueName": "/mnt/c/users/kingk/desktop/API_REST_Deploiement/TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "/mnt/c/users/kingk/desktop/RestAPI/TodoApi.csproj",
+        "projectPath": "/mnt/c/users/kingk/desktop/API_REST_Deploiement/TodoApi.csproj",
         "packagesPath": "/home/maxparent/.nuget/packages/",
-        "outputPath": "/mnt/c/users/kingk/desktop/RestAPI/obj/",
+        "outputPath": "/mnt/c/users/kingk/desktop/API_REST_Deploiement/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/maxparent/.nuget/NuGet/NuGet.Config"
